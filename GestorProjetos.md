@@ -7,4 +7,3 @@ Liderar um time de produção web, atuando como mediador de conflitos e garantin
 ##Requisitos
 
 - Saber como funciona o ecossistema de produção de projetos digitais
-- 
