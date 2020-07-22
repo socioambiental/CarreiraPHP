@@ -1,10 +1,10 @@
-#Programador PHP Pleno
+# Programador PHP Pleno
 
-##Responsabilidades
+## Responsabilidades
 
 Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de softwares. Seu foco de atuação é na análise e desenvolvimento das funcionalidades dos softwares, sugerindo melhorias no processo e auxiliando os programadores junior e estagiários sempre que houver possibilidade/necessidade.
 
-##Requisitos
+## Requisitos
 
 - Todas as do Programador PHP Junior, porém com maior desenvoltura (qualidade, produtividade e autonomia);
 - Domina os diagramas de classe e sequência da UML;
@@ -49,12 +49,12 @@ computacionalmente, trazendo soluções viáveis;
 - Conhece o manifesto ágil e seus princípios, e entende os papéis definidos pelo SCRUM
 
 
-#Desejável
+# Desejável
 
 - Conhecimentos avançados de algum framework MVC
 
-#Perfil esperado
-
+# Perfil esperado
+ 
 - Disciplina e organização é fundamental;
 - Sedento por conhecimento;
 - Traz críticas em relação a ferramentas utilizadas, com o objetivo de melhorar o
